@@ -37,3 +37,14 @@ button{
 input{
     margin: 5px;
 }
+
+footer{
+    margin-left: 30%;
+    position: fixed;
+    margin-top: 48rem;
+}
+
+footer a{
+    color:rgba(194,146,35,0.7);
+    text-decoration: none;
+}
